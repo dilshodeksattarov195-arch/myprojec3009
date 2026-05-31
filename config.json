@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsuender",
+        "uuid": 22058979,
+        "checksum": "bxu5ba"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
